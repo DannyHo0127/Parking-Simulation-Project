@@ -1,7 +1,3 @@
-//Danny Ho 
-//CPSC 1070-010
-//3/4/2023
-
 //Include iostream, fstream, cstdlib libraries
 //Include the date and parking wars header files
 #include <iostream>
