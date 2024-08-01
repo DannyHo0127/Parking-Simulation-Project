@@ -15,8 +15,8 @@ using namespace std;
 void ParkingWars::runSimulation() {
 	
 	cout << "Welcome to Parking Wars!" << endl;
-   cout <<"This program simulates an epic battle between Parking Services and" << endl;
-	cout << "students at Clementine University." << endl;
+	cout <<"This program simulates an epic battle between Parking Services and" << endl;
+	cout << "students in Politics High School." << endl;
 	
 	runMonthSimulation(datesToSimulate);
 }
