@@ -1,9 +1,5 @@
-//Danny Ho 
-//CPSC 1070-010
-//3/4/2023
-
 //Include header guards for Date header file
-//Include string library because one functionr returns a string
+//Include string library because one function returns a string
 #ifndef DATE_H
 #define DATE_H
 #include <string>
