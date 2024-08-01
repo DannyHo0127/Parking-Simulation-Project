@@ -1,7 +1,3 @@
-//Danny Ho 
-//CPSC 1070-010
-//3/4/2023
-
 //include the header file for ParkingWars.h
 #include "ParkingWars.h"
 
