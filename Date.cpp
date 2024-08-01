@@ -1,7 +1,3 @@
-//Danny Ho 
-//CPSC 1070-010
-//3/4/2023
-
 //Include Date header file, string because of MysterMachine, and header file for MysteryMachine to get day of the week
 #include "Date.h"
 #include <string>
