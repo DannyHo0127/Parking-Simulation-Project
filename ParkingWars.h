@@ -1,7 +1,3 @@
-//Danny Ho 
-//CPSC 1070-010
-//3/4/2023
-
 //Declare header guards for parkingwars
 //Include fstream and string library
 #ifndef PARKINGWARS_H
